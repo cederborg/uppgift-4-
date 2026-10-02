@@ -1,0 +1,34 @@
+
+/* OVERALL 4 */
+
+* {
+  margin: 60;
+  padding: 60;
+  box-sizing: border-box;
+}
+
+h1, p {
+  font-family: verdana;
+}
+
+.container {
+  margin: 45px;
+}
+
+
+/* UPPGIFT 4 */
+
+.completed {
+  text-decoration: line-through;
+  color: gray;
+}
+
+#error_message {
+  color: red;
+}
+
+li {
+  cursor: pointer;
+  margin-bottom: 8px;
+  color:blue;
+}
